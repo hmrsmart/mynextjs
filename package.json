@@ -1,0 +1,26 @@
+{
+  "name": "next12",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rpldy/upload-button": "^0.17.0",
+    "@rpldy/uploady": "^0.17.0",
+    "drive-uploady": "^0.2.5",
+    "googleapis": "^39.2.0",
+    "next": "12.0.1",
+    "next-auth": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-google-picker": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.1"
+  }
+}
